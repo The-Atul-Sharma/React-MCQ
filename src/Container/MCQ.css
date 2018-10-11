@@ -1,0 +1,11 @@
+.center {
+	text-align: center;
+}
+
+.white {
+	color: white;
+}
+
+.quiz-action>button {
+	margin: 10px;
+}
